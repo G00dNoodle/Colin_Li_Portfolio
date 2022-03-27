@@ -62,7 +62,7 @@ h2:after{
 	display:inline-block;
 	width: 100%;
 	height:2px; 
-	background: lightcoral;
+	background: rgba(28, 90, 189,0);
 	right: 0;
 	top: 51%;
 	z-index: -1;
